@@ -1,4 +1,4 @@
-# DevConnector 2.0
+# DevConnector 1.0
 
 > Social network for developers
 
@@ -14,7 +14,7 @@ This is a MERN stack application from the "MERN Stack Front To Back" course on [
 # add uri of your mongodb connection for example
 
  "mongoURI": "mongodb://localhost/dev-social",
- 
+
 ```
 
 ```bash
@@ -42,7 +42,7 @@ Brad Traversy
 
 ### Version
 
-2.0.0
+1.0.0
 
 ### License
 
